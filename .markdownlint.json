@@ -10,5 +10,6 @@
   "no-multiple-blanks": true,
   "no-trailing-punctuation": false,
   "ul-indent": false,
-  "no-trailing-spaces": true
+  "no-trailing-spaces": true,
+  "no-bare-urls": false
 }
