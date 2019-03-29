@@ -16,7 +16,6 @@ Then add the extends to your `.markdownlint.json`:
 
 ```json
 {
-  "extends": "markdownlint-config-bitworkers"
+  "extends": "./node_modules/markdownlint-config-bitworkers/.markdownlint.json"
 }
 ```
-<!--  -->
