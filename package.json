@@ -1,0 +1,22 @@
+{
+  "name": "markdownlint-config-bitworkers",
+  "version": "0.0.0-semantically-released",
+  "description": "Markdownlint configuration for Bitworkers",
+  "main": ".markdownlint.json",
+  "files": [
+    ".markdownlint.json"
+  ],
+  "keywords": [
+    "markdownlint",
+    "config"
+  ],
+  "author": "Bitworkers",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bitworkers-official/markdownlint-config-bitworkers.git"
+  },
+  "peerDependencies": {
+    "markdownlint": ">=0.12.0"
+  }
+}
