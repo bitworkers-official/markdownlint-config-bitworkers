@@ -9,7 +9,7 @@
 Install the config by running:
 
 ```sh
-npm install --save-dev markdownlint markdownlint-config-bitworkers
+npm install --save-dev markdownlint-cli markdownlint-config-bitworkers
 ```
 
 Then add the extends to your `.markdownlint.json`:
